@@ -32,7 +32,7 @@ A complete, battle-tested configuration for Kali Linux with an enhanced ZSH prom
 
 ### One-Command Install
 ```bash
-git clone https://github.com/yourusername/Kali-Linux-essentials.git ~/Kali-Config
+git clone https://github.com/akuma-log/MyKaliTerminal.git ~/Kali-Config
 cd ~/Kali-Config
 chmod +x install.sh
 ./install.sh
